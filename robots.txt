@@ -1,0 +1,20 @@
+# robots.txt for https://velvetstay.onrender.com/
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://velvetstay.onrender.com/sitemap.xml
+Host: https://velvetstay.onrender.com/
