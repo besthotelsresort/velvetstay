@@ -1,0 +1,4 @@
+Contact: mailto:security@velvetstay.example
+Expires: 2027-07-27T12:56:34.116Z
+Preferred-Languages: en, de, fr
+Canonical: https://velvetstay.onrender.com/.well-known/security.txt
